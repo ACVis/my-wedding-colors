@@ -1,10 +1,10 @@
 import chroma from "chroma-js";
-import Color from "../components/Color";
-import ColorMods from "../components/ColorMods";
-import Description from "../components/ColorsDescription";
-import PaletteBoardDos from "../components/PaletteBoardDos";
-import PaletteBoard from "../components/PaletteBoard";
-import { BoardColorsContext } from "../components/BoardColorsProvider";
+import Color from "./components/Color";
+import ColorMods from "./components/ColorMods";
+import Description from "./components/ColorsDescription";
+import PaletteBoardDos from "./components/PaletteBoardDos";
+import PaletteBoard from "./components/PaletteBoard";
+import { BoardColorsContext } from "./components/BoardColorsProvider";
 import { useState, useContext } from "react";
 
 import ColorPicker from "./ColorPicker";

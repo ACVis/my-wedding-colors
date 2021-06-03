@@ -1,7 +1,7 @@
 import React from "react";
 import Main from "./Main";
 import { DndContext } from "@dnd-kit/core";
-import { BoardColorsProvider } from "../components/BoardColorsProvider";
+import { BoardColorsProvider } from "./components/BoardColorsProvider";
 // import { Provider } from "react-redux";
 // import store from "./store";
 
