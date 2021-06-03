@@ -1,0 +1,6 @@
+Wedding Colors App
+
+Create account, save pallettes
+Allow small tweaks, up to 20%?
+Give ability to send/share (for wedding planners/designers), with note (pops up in top of page or in email if through email) ex: "Sarah, this is the first palette I thought I'd share with you, it would really accentuate the outdoor natural tones of your venue"
+give individual tweaking to colors, not just scales. indicate what colors have been tweaked, allow them to be reset to original scale color.
