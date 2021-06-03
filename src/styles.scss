@@ -166,8 +166,8 @@ $drag-area-offset: $drag-area-size / 2;
   width: 100%;
   height: $drag-area-size;
   border-radius: 30px;
-  top: calc(50% - $drag-area-offset);
-  left: calc(50% - $drag-area-offset);
+  top: calc(50% - #{$drag-area-offset});
+  left: calc(50% - #{$drag-area-offset});
 }
 
 .refresh {
