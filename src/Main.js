@@ -308,12 +308,12 @@ export default function App() {
           {/* </div> */}
         </section>
 
-        <h2>General Tips</h2>
+        {/* <h2>General Tips</h2>
         <section>
           <ul>
             <li>ratios, like 60-30-10 or w/e</li>
           </ul>
-        </section>
+        </section> */}
       </div>
     </>
   );
